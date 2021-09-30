@@ -1,0 +1,1 @@
+powershell -c "python 'C:/Users/Uday/Desktop/Programs/Project OOP/Scripts/test_ai.py'"

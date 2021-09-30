@@ -1,0 +1,1 @@
+powershell -c "python 'C:/Users/Uday/Desktop/Project/Scripts/test.py'"
